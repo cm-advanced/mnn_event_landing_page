@@ -1,12 +1,12 @@
-name = MNN Event Landing
+name = MNN Event Landing Page
 
 description = "Checks for prerequisite requirements before allowing a producer to register for an event"
 
 package = "MNN Community Media Advanced"
-version = "7.x-1.1"
+version = "7.x-1.2"
 core = "7.x"
 project = "mnn_reservations_import"
-project_status_url = https://github.com/cm-advanced/mnn_reservations_import
+project_status_url = https://github.com/cm-advanced/mnn_event_landing_page
 php = "5.2.4"
 
 files[] = mnn_event_landing_page.module
